@@ -7,6 +7,7 @@
 
 ## Introduction
 
+
 HTML's role in our websites is to provide structure, content, and link resources
 (e.g. CSS files). Its role in describing the style ("presentation") of content
 is minimal. HTML's ability to style is pretty much limited to "pretty good"
